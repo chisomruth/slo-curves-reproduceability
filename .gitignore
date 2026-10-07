@@ -1,0 +1,13 @@
+gpuenv/
+.env
+results/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+data/
+slo-curves/
+.DS_Store
+results/
+plots/
+*.json

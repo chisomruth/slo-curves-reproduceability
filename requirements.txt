@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+datasets
+numpy
+scipy
+tqdm
+pandas
+matplotlib
+torch-optimizer
