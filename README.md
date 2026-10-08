@@ -1,6 +1,6 @@
 # SLo-Curves across optimizers
 
-Reproduces SLo-Curves (Garg & Roy, CVPR 2023) and tests whether the result holds for
+Reproduces SLo-Curves (https://openaccess.thecvf.com/content/CVPR2023/html/Garg_Samples_With_Low_Loss_Curvature_Improve_Data_Efficiency_CVPR_2023_paper.html; Garg & Roy, CVPR 2023) and tests whether the result holds for
 SGD, AdamW, Muon, SOAP and Shampoo. Using CIFAR-10 on ResNet18.
 
 For each optimizer:
