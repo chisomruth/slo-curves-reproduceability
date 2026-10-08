@@ -8,6 +8,7 @@ __pycache__/
 data/
 slo-curves/
 .DS_Store
-results/
-plots/
+results/**/selection.pt
+*.tmp
+nohup.out
 *.json
